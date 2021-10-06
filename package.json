@@ -1,0 +1,26 @@
+{
+  "name": "bl1-js-ejer3.1-products",
+  "version": "1.0.0",
+  "description": "En este ejercicio vamos a trabajar con los productos de un almacén, para lo que crearemos las clases **Product** y **Store**.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwec-batoi/bl1-js-ejer3.1-products.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwec-batoi/bl1-js-ejer3.1-products/issues"
+  },
+  "homepage": "https://github.com/dwec-batoi/bl1-js-ejer3.1-products#readme",
+  "devDependencies": {
+    "webpack": "^5.57.1",
+    "webpack-cli": "^4.8.0"
+  }
+}
